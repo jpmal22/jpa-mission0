@@ -4,9 +4,9 @@ import './style.css';
 
 const CardsSection = () => {
   const cardsData = [
-    { id: 1, title: "Events", text: "Find out about upcoming events", image: "/events.jpg" },
-    { id: 2, title: "Training", text: "Find out more about the programmes we offer", image: "/training.jpg" },
-    { id: 3, title: "Resource Hub", text: "Access resources to bolster your learning", image: "/resources.jpg" }
+    { id: 1, title: "Events", text: "Find out about upcoming events", image: "./jpa-mission0/events.jpg" },
+    { id: 2, title: "Training", text: "Find out more about the programmes we offer", image: "./jpa-mission0/training.jpg" },
+    { id: 3, title: "Resource Hub", text: "Access resources to bolster your learning", image: "./jpa-mission0/resources.jpg" }
   ];
 
   return (
