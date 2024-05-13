@@ -19,7 +19,7 @@ const Header = () => {
     return (
         <header className="header">
             <div className="logo-section">
-                <img src="/logo.jpg" alt="Company Logo" className="logo"/>
+                <img src="./jpa-mission0/logo.jpg" alt="Company Logo" className="logo"/>
                 <span className="company-name">Marketing Association</span>
             </div>
             <button onClick={() => setIsOpen(!isOpen)} className="menu-toggle" aria-label="Toggle menu">☰</button>
