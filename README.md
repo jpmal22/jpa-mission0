@@ -26,3 +26,7 @@ CardSection.jsx also imports another react component called Card.jsx which creat
 Flexbox, available in CSS, was used for the layout of the webpage. 
 
 Media queries were used to ensure compability with mobile or smaller screens. The media queries change the layout of the page and implements a hamburger icon to display a drop down menu when clicked instead. 
+
+Challenges/Improvements:
+
+The images/jpgs do not show properly once the project was deployed on github. The images show when run locally. I have not been able to fix this issue. 
