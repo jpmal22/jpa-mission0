@@ -6,7 +6,7 @@ const SearchSection = () => {
       <section className="SearchSection">
         <div className="search-display">
         <h1 className="slogan">We help marketers<br/>be BRILLIANT!</h1>
-          <img src="/marketing.jpg" alt="Marketing"/>
+          <img src="./jpa-mission0/marketing.jpg" alt="Marketing"/>
         </div>
         <div className="search-container">
           <input type="text" placeholder="Search..." style={{ width: "300px" }} />
