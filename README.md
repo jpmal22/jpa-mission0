@@ -11,11 +11,13 @@ Installation and set up:
 
 How to clone: git clone https://github.com/jpmal22/jpa-mission0.git
 
-InstallNPM packages: npm install
+Install NPM packages: npm install
 
 To run the project enter 'npm start' to launch the project loclally at http://localhost:3000.
 
 Project:
+
+Link to deployed project: https://jpmal22.github.io/jpa-mission0/
 
 App.js splits the User Interface into 3 main react function components: header.jsx, SearchSection.jsx, and CardSection.jsx. 
 
