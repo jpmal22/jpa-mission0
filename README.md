@@ -2,7 +2,20 @@ Mission 0 - Create quick page as a template for a new digital news home page for
 
 This project was created using React. 
 
+Getting Started:
+
+Prerequisites: 
+npm install npm@latest -g
+
+Installation and set up:
+
+How to clone: git clone https://github.com/jpmal22/jpa-mission0.git
+
+InstallNPM packages: npm install
+
 To run the project enter 'npm start' to launch the project loclally at http://localhost:3000.
+
+Project:
 
 App.js splits the User Interface into 3 main react function components: header.jsx, SearchSection.jsx, and CardSection.jsx. 
 
